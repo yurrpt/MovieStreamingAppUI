@@ -12,7 +12,7 @@ class Constants {
   static Color activeDotColor = const Color(0xff4D438A);
   static Color deactiveDotColor = const Color(0xff2A2740);
 
-  static String movieApi = "https://api.themoviedb.org/3/movie/550?api_key=8fb35b51dc13b26c485b59cb815dcee0";
+  static String movieApi = "*********";
   static const baseUrl = "https://api.themoviedb.org";
 
   static const fontFamily = "OpenSans";
